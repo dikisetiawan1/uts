@@ -1,2 +1,3 @@
-# uts
-matkul
+# makalah
+teori bahasa dan automata
+
